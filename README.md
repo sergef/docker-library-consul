@@ -1,8 +1,8 @@
-# Docker Images
+# Docker images
 
 ## Consul
 
-Pre-configured Consul server (or agent), installed from consult@testing Alpine linux package (https://pkgs.alpinelinux.org/package/edge/testing/x86_64/consul).
+Pre-configured Consul server (or agent), installed from consul@testing Alpine linux package (https://pkgs.alpinelinux.org/package/edge/testing/x86_64/consul).
 
 Read more https://www.consul.io/
 
